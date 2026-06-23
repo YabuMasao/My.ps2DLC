@@ -49,6 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PS2DLC.cs" />
+    <Compile Include="PS2DLCConstants.cs" />
+    <Compile Include="PS2DLCFileStatus.cs" />
+    <Compile Include="PS2DLCGac.cs" />
+    <Compile Include="PS2DLCPayload.cs" />
+    <Compile Include="PS2DLCRegistry.cs" />
+    <Compile Include="PS2DLCResources.cs" />
+    <Compile Include="PS2DLCSecurity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

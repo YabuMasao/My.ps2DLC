@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="My.ps2DLC.DLL/My.ps2DLC.DLL.csproj" Id="27494db6-09c1-4e7f-be64-b0ee24a12ab0" />
   <Project Path="My.ps2DLC.Original/My.ps2DLC.Original.pssproj" Type="f5034706-568f-408a-b7b3-4d38c6db8a32" Id="6cafc0c6-a428-4d30-a9f9-700e829fea51" />
+  <Project Path="My.ps2DLC.Tests/My.ps2DLC.Tests.csproj" Id="1da93314-aa41-45c3-872c-9625ffc7ffd3" />
 </Solution>
